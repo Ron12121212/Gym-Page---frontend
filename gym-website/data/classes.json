@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Powerlifting",
+    "description": "Build strength through compound lifts and power exercises.",
+    "image": "images/powerlifting.jpeg"
+  },
+  {
+    "id": 2,
+    "name": "Cardio Combat",
+    "description": "High-intensity martial arts inspired cardio training.",
+    "image": "images/cardio.jpeg"
+  },
+  {
+    "id": 3,
+    "name": "Jedi Yoga",
+    "description": "Improve flexibility and focus with balance-based poses.",
+    "image": "images/yoga.jpeg"
+  },
+  {
+    "id": 4,
+    "name": "Mando Spin",
+    "description": "Galactic cycling sessions with energy and speed.",
+    "image": "images/spining.jpeg"
+  },
+  {
+    "id": 5,
+    "name": "Mandalorian HIIT",
+    "description": "High-intensity interval training for max results.",
+    "image": "images/Hiit.jpeg"
+  },
+  {
+    "id": 6,
+    "name": "Beskar Strength",
+    "description": "Powerlifting & resistance training for warriors.",
+    "image": "images/strength.jpeg"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Din Djarin",
+    "specialty": "Weightlifting",
+    "experience": "7 years bounty-body conditioning",
+    "image": "images/DinDjarin.jpeg"
+  },
+  {
+    "name": "Bo-Katan Kryze",
+    "specialty": "Martial Arts",
+    "experience": "10 years Mandalorian hand-to-hand combat",
+    "image": "images/Bo-KatanKryze.jpeg"
+  },
+  {
+    "name": "Grogu",
+    "specialty": "Flexibility",
+    "experience": "3 years of Force-based movement and agility",
+    "image": "images/Grogu.jpeg"
+  },
+  {
+    "name": "Paz Vizsla",
+    "specialty": "Bodybuilding",
+    "experience": "8 years of heavy resistance training",
+    "image": "images/PazVizsla.jpeg"
+  },
+  {
+    "name": "Tano Vahl",
+    "specialty": "Combat Conditioning",
+    "experience": "5 years training elite Mandalorians",
+    "image": "images/TanoVahl.jpeg"
+  },
+  {
+    "name": "Drex Ordo",
+    "specialty": "Heavy Lifting",
+    "experience": "4 years strength & mass coaching",
+    "image": "images/DrexOrdo.jpeg"
+  }
+]
